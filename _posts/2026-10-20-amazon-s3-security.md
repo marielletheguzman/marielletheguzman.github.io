@@ -4,17 +4,21 @@ title: "Amazon S3 Security"
 date: 2026-10-20 11:00:00 +0800
 categories: [aws-s3-security]
 ---
-
+![Cover Image](/assets/photos/amazon-s3.png)
 > **Today’s focus:** S3
 > **Study time:** 30 minutes
 
-## What I studied
+## What I thought about the topic before learning? 💭
+🤔 I thought S3 was basically just a place to store static files. I didn’t realize it had so many security features.
 
-## What I learned
+## What I studied 📖
+I studied the different types of security on S3
 
-## What confused me
+## What I learned 🧠
 
-## Quick recap
+## What confused me 😕
 
-## Next study session
+## Quick recap 🔃
+
+## Next study session ⏭️
 
