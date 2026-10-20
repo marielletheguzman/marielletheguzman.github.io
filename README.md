@@ -2,4 +2,4 @@
 
 [Visit my blog](https://marielletheguzman.github.io)
 
-I’m documenting my progress while studying for the AWS Solutions Architect Associate certification.
+I’m sharing my journey as I study for the AWS Solutions Architect Associate certification.
