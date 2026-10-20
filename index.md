@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 # My AWS SAA Learning Journey
 
