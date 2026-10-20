@@ -1,4 +1,15 @@
 title: AWS SAA Learning Journal
 description: My daily progress studying for the AWS Solutions Architect Associate exam.
-theme: minima
 skin: dark
+# Enable the latest Minima theme directly from the GitHub repository
+remote_theme: jekyll/minima
+
+# Enable plugins required by GitHub Pages and for fetching remote themes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima 3.0 settings (Optional: choose 'dark' or 'auto' for system preferences)
+minima:
+  skin: auto
