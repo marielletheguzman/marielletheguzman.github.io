@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-# My AWS SAA Learning Journey
-
 # Hi, I’m Marielle 👋
 
 ---
