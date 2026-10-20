@@ -3,11 +3,8 @@ layout: post
 title: "Amazon S3 Security"
 date: 2026-10-20 11:00:00 +0800
 categories: [aws-s3-security]
+cover: /images/amazon-s3.png
 ---
-
-<div style="max-width: 600px; margin: 0 auto;">
-  <img src="/images/amazon-s3.png" alt="Amazon S3 security diagram" style="display: block; width: 100%; height: auto;">
-</div>
 
 > **Today’s focus:** S3  
 > **Study time:** 30 minutes
