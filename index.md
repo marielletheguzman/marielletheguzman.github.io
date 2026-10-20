@@ -3,6 +3,8 @@ layout: home
 ---
 # My AWS SAA Learning Journey
 
-Hi, I’m Marielle. This blog tracks what I learn while preparing for the AWS Solutions Architect Associate exam.
+# Hi, I’m Marielle 👋
 
-I’ll share study notes, hands-on practice, questions I’m working through, and project updates.
+---
+Hop in 🐇 and follow along on my AWS SAA journey, where I share my study notes, hands-on practice, questions, and project updates. 
+
