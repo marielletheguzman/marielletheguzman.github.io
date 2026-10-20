@@ -4,7 +4,7 @@ title: "Amazon S3 Security"
 date: 2026-10-20 11:00:00 +0800
 categories: [aws-s3-security]
 ---
-![Cover Image](/assets/photos/amazon-s3.png)
+![Cover Image](/assets/_photos/amazon-s3.png)
 > **Today’s focus:** S3
 > **Study time:** 30 minutes
 
