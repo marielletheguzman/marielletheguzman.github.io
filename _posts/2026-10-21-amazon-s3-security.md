@@ -2,7 +2,7 @@
 layout: post
 title: "Amazon S3 Security"
 date: 2026-10-20 20:00:00 +0800
-categories: S3
+categories: [aws-s3-security]
 ---
 
 > **Today’s focus:** S3
