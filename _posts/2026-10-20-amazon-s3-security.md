@@ -34,7 +34,7 @@ S3 automatically encrypts new objects using SSE-S3 by default. Older objects are
 
 >> It’s off by default, but that doesn’t mean everyone can delete files normal S3 permissions still decide who can
 
-[S3 MFA Delete Activity](/activity/s3-mfa-activity-delete/)▶️
+[S3 MFA Delete Activity](https://marielletheguzman.github.io/activity/s3-mfa-activity-delete/)▶️
 
 
 ## What confused me about CORS 😕
