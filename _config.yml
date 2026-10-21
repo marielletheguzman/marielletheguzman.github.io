@@ -13,3 +13,8 @@ plugins:
 # Minima 3.0 settings (Optional: choose 'dark' or 'auto' for system preferences)
 minima:
   skin: auto
+  
+collections:
+  activity:
+    output: true
+    permalink: /activity/:name/
