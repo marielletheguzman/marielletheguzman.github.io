@@ -19,10 +19,12 @@ categories: [s3-mfa-activity-delete]
 1. Open S3 bucket's property, then double check that MFA is disable.
 ###<img width="1534" height="460" alt="s3-demo-mfa-delete-maye-1" src="https://github.com/user-attachments/assets/d2cba54a-a54f-40fa-9063-aa68e4a23a31" />
   As of now, this can't be enable in UI so we need to change it in CLI.
+
+![S3 bucket MFA Delete setting](https://github.com/user-attachments/assets/d2cba54a-a54f-40fa-9063-aa68e4a23a31)
 <img width="1189" height="413" alt="s3-demo-mfa-delete-maye-2" src="https://github.com/user-attachments/assets/fc00eee7-30b9-4a50-960c-4176d16d10df" />
 
 
-2. Open your root account then go to **My Security Credentials** then **Create Access Key**
+3. Open your root account then go to **My Security Credentials** then **Create Access Key**
 <img width="1389" height="490" alt="s3-demo-mfa-delete-maye-3" src="https://github.com/user-attachments/assets/6a10fa0d-f3fd-4f31-9964-2602ea07714b" />
 
   Take note of your key, this will be needed later.
