@@ -29,12 +29,12 @@ S3 automatically encrypts new objects using SSE-S3 by default. Older objects are
 3. **DSSE-KMS** - This applies two independent layers of encryption, which can help meet security or compliance requirements. It also adds some processing and cost. 🔐🔒
 4. **SSE-C** - This option lets you provide and manage your own encryption key. S3 uses it to encrypt the file, so keep the key safe you’ll need it again to access the file. If you lose it, you may lose access to the file 📂
 
-**S3 MFA Delete 🗑️
+**S3 MFA Delete 🗑️**
 *Before this lesson, I hadn’t heard of S3 MFA Delete. I learned that it adds an extra check before someone can permanently delete a specific object version. It can also protect changes to the bucket’s versioning settings.*
 
 >> It’s off by default, but that doesn’t mean everyone can delete files normal S3 permissions still decide who can
 
-[S3 MFA Delete Activity](https://marielletheguzman.github.io/activity/s3-mfa-activity-delete/)▶️
+[S3 MFA Delete Activity](/activity/s3-mfa-activity-delete/)▶️
 
 
 ## What confused me about CORS 😕
